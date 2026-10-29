@@ -31,7 +31,12 @@ I'm currently strengthening my programming fundamentals and learning tools and f
 
 A project focused on helping college students with their studies.
 
-[View My Repositories](https://github.com/abhaygujjar)
+[View Project](https://github.com/abhaygujjar/College-Study-Assistant)
+
+### 🎯 ResumeMatch AI
+A web app that compares a PDF resume with a job description and gives an ATS-style score, matched and missing skills, and tips to improve the resume. Built with Python, Streamlit, Scikit-learn and PyMuPDF.
+
+[View Project](https://github.com/abhaygujjar/ResumeMatch-AI)
 
 ## 🎯 My Goals
 
